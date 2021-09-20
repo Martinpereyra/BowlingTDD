@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_Juego", "Test_Juego\Test_Juego.csproj", "{EFD68AD6-2C91-41D1-93FF-B7D485685A94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Juego", "Juego\Juego.csproj", "{B60FD3B8-DCE0-410D-8C70-F54C960AFB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria", "Libreria\Libreria.csproj", "{E67AF5CC-41B2-4AC0-A1D4-485E653A347D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD68AD6-2C91-41D1-93FF-B7D485685A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD68AD6-2C91-41D1-93FF-B7D485685A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD68AD6-2C91-41D1-93FF-B7D485685A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD68AD6-2C91-41D1-93FF-B7D485685A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60FD3B8-DCE0-410D-8C70-F54C960AFB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60FD3B8-DCE0-410D-8C70-F54C960AFB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60FD3B8-DCE0-410D-8C70-F54C960AFB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60FD3B8-DCE0-410D-8C70-F54C960AFB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67AF5CC-41B2-4AC0-A1D4-485E653A347D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67AF5CC-41B2-4AC0-A1D4-485E653A347D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67AF5CC-41B2-4AC0-A1D4-485E653A347D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67AF5CC-41B2-4AC0-A1D4-485E653A347D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD83701-3436-47DC-B379-44EF114C84E4}
+	EndGlobalSection
+EndGlobal
